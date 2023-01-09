@@ -1,0 +1,10 @@
+passwd
+/etc
+password
+admin
+administrator
+root
+root:x:0:0:
+daemon:x:1:1
+bin:x:2:2
+mail:x:8:8

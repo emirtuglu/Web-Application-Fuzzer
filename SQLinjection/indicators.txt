@@ -1,0 +1,26 @@
+SQL
+server
+MySQL
+PostgreSQL
+Oracle
+MSSQL
+MS-SQL
+SQLite
+syntax
+information_schema
+database
+error
+admin
+exception
+varchar
+internal
+injection
+Access denied
+Incorrect number of bindings
+Invalid parameter number
+SQL command not properly ended
+Unknown column
+Unknown database
+Access violation
+successfully
+logged in

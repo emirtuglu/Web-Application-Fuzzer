@@ -12,7 +12,7 @@ To use the fuzzer, provide the URL you want to test as an argument, along with t
 
 python fuzzer.py --url "http://example.com" -s -x -p 
 
-python fuzzer.py --url "http://example.com/login" -s --post <request body>
+python fuzzer.py --url "http://example.com/login" -s --post \<request body\>
 
 
 ## Features
